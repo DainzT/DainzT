@@ -16,6 +16,7 @@
 <div align="center">
 
 <img src="https://via.placeholder.com/800x300?text=Your+GIF+Here" width="80%" />
+img just emptiness
 
 <h1> 
   Hi, I am <a href="https://github.com/DainzT">Dainz Trasadas</a> 👋 
@@ -26,7 +27,7 @@
   driven by curiosity and a passion for building impactful systems. 
 </p>
 
-<h3> >>> Software Engineering Student <<< </h3>
+<h3> >>> Software Engineering Student | Full Stack Developer | Game Developer | Web Developer | Infrastructure Developer <<< </h3>
 
 </div>
 <div align="left">
