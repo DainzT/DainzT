@@ -27,7 +27,7 @@ img just emptiness
   driven by curiosity and a passion for building impactful systems. 
 </p>
 
-<h3> >>> Software Engineering Student | Full Stack Developer | Game Developer | Web Developer | Infrastructure Developer <<< </h3>
+<h3> >>> Full-Stack Software Engineer | Game Developer | Terraform | AI-Integrated Systems <<< </h3>
 
 </div>
 <div align="left">
